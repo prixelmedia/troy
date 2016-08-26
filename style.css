@@ -1,0 +1,30 @@
+/*----------------------------------
+
+	Theme Name: Troy
+	Theme URI: www.prixelmedia.com
+	Description: A theme for Troy Church of God
+	Author: Vipin Phili
+	Author URI: www.prixelmedia.com
+	Version: 1.0.0
+	
+------------------------------------------------------------------------*/
+
+
+
+@import url('assets/css/bootstrap.css'); /* Import Vector Icons Stylesheet */
+@import url('assets/css/bootstrap-theme.css'); /* Import Vector Icons Stylesheet */
+@import url('assets/css/style.css'); /* Import Vector Icons Stylesheet */
+@import url('assets/vendor/prettyphoto/css/prettyPhoto.css'); /* Import Vector Icons Stylesheet */
+@import url('assets/vendor/mediaelement/mediaelementplayer.css'); /* Import Vector Icons Stylesheet */
+@import url('assets/colors/color1.css'); /* Import Vector Icons Stylesheet */
+@import url('assets/style-switcher/css/style-switcher.css'); /* Import Vector Icons Stylesheet */
+
+/*-----------------------------------------------------------------------------------*/
+
+.padding-bottom-20{
+	padding-bottom: 40px;
+}
+
+.padding-top-20{
+	padding-top: 20px;
+}
